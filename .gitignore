@@ -1,0 +1,12 @@
+__pycache__
+*.pyc
+*.pyo
+
+.env
+
+.lib
+.nox
+.pytest_cache
+.mypy_cache
+.venv
+.db
